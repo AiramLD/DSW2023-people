@@ -1,0 +1,18 @@
+{
+    "name": "airam/people",
+    "type": "project",
+    "require": {
+        "illuminate/database": "^10.33"
+    },
+    "autoload": {
+        "psr-4": {
+            "Airam\\People\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "AiramLD",
+            "email": "airamluisdiaz629@gmail.com"
+        }
+    ]
+}
